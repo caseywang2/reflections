@@ -1,0 +1,4 @@
+It allowed me to see the exact code changes made to change the button. This allowed me to quickly find thetypo without needing to parse through the code. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It would force me to compartmentalize my changes rather than making multiple changes all at once.
